@@ -1,0 +1,249 @@
+URL: https://sycet.org/labs.php
+
+Laboratory
+Laboratory
+WHAT ARE YOU HERE FOR?
+I want to know about :
+Computer science and Engineering
+Data Science
+AIML
+Electronics and computer
+Electrical
+Civil
+Mechanical
+VLSI
+5G Internet Technology
+Computer Science and Engineering
+Programming Lab
+Equipment List:
+27 Computer Systems
+At the Programming Lab, we focus on mastering coding languages, algorithms, and problem-solving techniques to build efficient software solutions. Our team explores a wide range of programming languages, including Python, Java, C++, and JavaScript, while applying best practices in software development. We tackle complex challenges, optimize code performance, and create scalable applications, all while fostering collaboration and hands-on learning in a dynamic coding environment.
+Data Science Lab
+Equipment List:
+23 Computer Systems
+At the Data Science Lab, we combine advanced analytics, machine learning, and big data technologies to extract meaningful insights and drive data-driven decisions. Our team leverages powerful tools and algorithms to process and analyze complex datasets, providing actionable solutions across various industries. Whether it's building predictive models, performing deep statistical analysis, or developing AI-driven applications, we are committed to unlocking the full potential of your data.
+IOT Lab
+Equipment List:
+22 Computer Systems
+Web Technology Lab
+Equipment List:
+21 Computer Systems
+At Web Tech Lab, we fuse innovation, cutting-edge technology, and custom solutions to transform your digital ideas into reality. Whether it's creating seamless front-end interfaces, building robust back-end systems, ensuring top-notch security, or optimizing for performance, our team is dedicated to delivering high-quality, scalable web solutions. With a focus on mobile-first design and leveraging the power of cloud integration, we ensure that your web applications are not only functional but also innovative and future-proof.
+Artificial Intelligence Lab
+Equipment List:
+23 Computer Systems
+At the Artificial Intelligence Lab, we harness the power of machine learning, deep learning, and AI technologies to develop innovative solutions. Our work focuses on AI models, natural language processing, and computer vision to solve real-world problems, enhance decision-making, and drive growth. We create intelligent, scalable systems that empower businesses to succeed in the AI-driven world.
+Open Source Lab
+Equipment List:
+27 Computer Systems
+At the Open Source Lab, we foster collaboration and innovation by developing and contributing to open-source projects. Our team focuses on creating accessible software, building community-driven solutions, and promoting transparent development. By leveraging open technologies and collaborative tools, we aim to drive progress, share knowledge, and empower developers to build powerful, scalable solutions for a wide range of industries.
+Software Development Lab
+Equipment List:
+21 Computer Systems
+At the Software Development Lab, we specialize in creating high-quality, custom software solutions tailored to meet specific business needs. Our team excels in full-stack development, building scalable applications, and ensuring efficient performance. From design to deployment, we use the latest technologies and agile methodologies to deliver robust, user-friendly software that drives innovation and growth for businesses.
+Operating System Lab
+Equipment List:
+27 Computer Systems
+At the Operating System Lab, we explore and develop core operating system concepts, focusing on system architecture, kernel development, and resource management. Our team works on creating efficient, scalable systems that manage hardware, software, and data seamlessly. We experiment with process scheduling, memory management, and security protocols, building a solid foundation for both real-time and embedded systems to ensure optimal performance and reliability.
+Data Science
+Programming Lab
+Equipment List:
+27 Computer Systems
+At the Programming Lab, we focus on mastering coding languages, algorithms, and problem-solving techniques to build efficient software solutions. Our team explores a wide range of programming languages, including Python, Java, C++, and JavaScript, while applying best practices in software development. We tackle complex challenges, optimize code performance, and create scalable applications, all while fostering collaboration and hands-on learning in a dynamic coding environment.
+Data Science Lab
+Equipment List:
+23 Computer Systems
+At the Data Science Lab, we combine advanced analytics, machine learning, and big data technologies to extract meaningful insights and drive data-driven decisions. Our team leverages powerful tools and algorithms to process and analyze complex datasets, providing actionable solutions across various industries. Whether it's building predictive models, performing deep statistical analysis, or developing AI-driven applications, we are committed to unlocking the full potential of your data.
+IOT Lab
+Equipment List:
+22 Computer Systems
+Web Technology Lab
+Equipment List:
+21 Computer Systems
+At Web Tech Lab, we fuse innovation, cutting-edge technology, and custom solutions to transform your digital ideas into reality. Whether it's creating seamless front-end interfaces, building robust back-end systems, ensuring top-notch security, or optimizing for performance, our team is dedicated to delivering high-quality, scalable web solutions. With a focus on mobile-first design and leveraging the power of cloud integration, we ensure that your web applications are not only functional but also innovative and future-proof.
+Artificial Intelligence Lab
+Equipment List:
+23 Computer Systems
+At the Artificial Intelligence Lab, we harness the power of machine learning, deep learning, and AI technologies to develop innovative solutions. Our work focuses on AI models, natural language processing, and computer vision to solve real-world problems, enhance decision-making, and drive growth. We create intelligent, scalable systems that empower businesses to succeed in the AI-driven world.
+Open Source Lab
+Equipment List:
+27 Computer Systems
+At the Open Source Lab, we foster collaboration and innovation by developing and contributing to open-source projects. Our team focuses on creating accessible software, building community-driven solutions, and promoting transparent development. By leveraging open technologies and collaborative tools, we aim to drive progress, share knowledge, and empower developers to build powerful, scalable solutions for a wide range of industries.
+Software Development Lab
+Equipment List:
+21 Computer Systems
+At the Software Development Lab, we specialize in creating high-quality, custom software solutions tailored to meet specific business needs. Our team excels in full-stack development, building scalable applications, and ensuring efficient performance. From design to deployment, we use the latest technologies and agile methodologies to deliver robust, user-friendly software that drives innovation and growth for businesses.
+Operating System Lab
+Equipment List:
+27 Computer Systems
+At the Operating System Lab, we explore and develop core operating system concepts, focusing on system architecture, kernel development, and resource management. Our team works on creating efficient, scalable systems that manage hardware, software, and data seamlessly. We experiment with process scheduling, memory management, and security protocols, building a solid foundation for both real-time and embedded systems to ensure optimal performance and reliability.
+AIML Enginnering
+Programming Lab
+Equipment List:
+27 Computer Systems
+At the Programming Lab, we focus on mastering coding languages, algorithms, and problem-solving techniques to build efficient software solutions. Our team explores a wide range of programming languages, including Python, Java, C++, and JavaScript, while applying best practices in software development. We tackle complex challenges, optimize code performance, and create scalable applications, all while fostering collaboration and hands-on learning in a dynamic coding environment.
+Data Science Lab
+Equipment List:
+23 Computer Systems
+At the Data Science Lab, we combine advanced analytics, machine learning, and big data technologies to extract meaningful insights and drive data-driven decisions. Our team leverages powerful tools and algorithms to process and analyze complex datasets, providing actionable solutions across various industries. Whether it's building predictive models, performing deep statistical analysis, or developing AI-driven applications, we are committed to unlocking the full potential of your data.
+IOT Lab
+Equipment List:
+22 Computer Systems
+Web Technology Lab
+Equipment List:
+21 Computer Systems
+At Web Tech Lab, we fuse innovation, cutting-edge technology, and custom solutions to transform your digital ideas into reality. Whether it's creating seamless front-end interfaces, building robust back-end systems, ensuring top-notch security, or optimizing for performance, our team is dedicated to delivering high-quality, scalable web solutions. With a focus on mobile-first design and leveraging the power of cloud integration, we ensure that your web applications are not only functional but also innovative and future-proof.
+Artificial Intelligence Lab
+Equipment List:
+23 Computer Systems
+At the Artificial Intelligence Lab, we harness the power of machine learning, deep learning, and AI technologies to develop innovative solutions. Our work focuses on AI models, natural language processing, and computer vision to solve real-world problems, enhance decision-making, and drive growth. We create intelligent, scalable systems that empower businesses to succeed in the AI-driven world.
+Open Source Lab
+Equipment List:
+27 Computer Systems
+At the Open Source Lab, we foster collaboration and innovation by developing and contributing to open-source projects. Our team focuses on creating accessible software, building community-driven solutions, and promoting transparent development. By leveraging open technologies and collaborative tools, we aim to drive progress, share knowledge, and empower developers to build powerful, scalable solutions for a wide range of industries.
+Software Development Lab
+Equipment List:
+21 Computer Systems
+At the Software Development Lab, we specialize in creating high-quality, custom software solutions tailored to meet specific business needs. Our team excels in full-stack development, building scalable applications, and ensuring efficient performance. From design to deployment, we use the latest technologies and agile methodologies to deliver robust, user-friendly software that drives innovation and growth for businesses.
+Operating System Lab
+Equipment List:
+27 Computer Systems
+At the Operating System Lab, we explore and develop core operating system concepts, focusing on system architecture, kernel development, and resource management. Our team works on creating efficient, scalable systems that manage hardware, software, and data seamlessly. We experiment with process scheduling, memory management, and security protocols, building a solid foundation for both real-time and embedded systems to ensure optimal performance and reliability.
+Electronics and Computer Engineering
+Computer Lab - I/II
+Equipment List: Computer Systems 48
+Analog Electronics Lab
+Equipment List: 20 MHZ Oscilloscope AM / FM (2 MHZ) Function Generator || Analog & Digital Trainer || Flip Flop Trainer || PLL Frequency Multiplier & Synthesizer || Implementation of IC-723 basic HIGH/LOW REG || Precision Halfwave & Full wave rectifier !! Linear IC trainer Kit. || Electrical Theorem Kit with Four Theorems || Thevenins Theorem(MNO KNB 18).
+Electronic Devices & Circuit Design
+Equipment List: 100 MHZ Oscilloscope with 1GS/S ||Bread Baord Trainer System || Digital Tariner Kit || Discrete Component Trainer Board || IC 810 As Audio Amplifier Trainer || 20 Mhz Oscilloscope || AM/FM Function Generator || CRO 25 MHZ DUAL TRACE with component tester || Generator sine square/1 MHZ || 1 MHZ function generator || Semiconductor diode with 4 meter || Digital multimeter || Power supply 30 V/1amp || Soldering iron with Bench Setup || Digital multimeter model: DMM4011 || Digital lab/ST 2611.
+Embedded System Lab
+Equipment List: Arm-7 Development Board with all interbase on Board with Power supply || Arm-7 Development Board with all interbase on Board(SPJ- SYSTEM) with Power supply || SBC-51: 8051 based Microcontroller Trainer || SMPS power supply || DYNA 51 microcontroller trainer with LCD display || A to D converter(ADC 01 : 8 bit) || Stepper Motor || Cable & connector set with keyboard || Testronics power supply with 92 B || Testronics power supply with 92 C.
+Robotics Lab & Industrial Cell
+Equipment List: FireBird V 2560 || Spark V Robot || FireBird V P89V51RD2 adapter card || FireBird V LPC2148 adapter card || Zigbee Modules 100m range || Zigbee Modules adapter || Metal-gear Servo Motors || Servo Motor Based Gripper kit for the Fire Bird V robot || Sharp GP2Y0A21YK0F infrared range sensor ( 10cm to 80cm ) || Electric Hand Drill Machine + Drill Bit Set || Hand Grinder || Micro Soldering Station, Bench Vice, PCB Soldering Clamp, Assorted pliers, Hammer.
+Digital Electronics Lab
+Equipment List: Digital Multimeter || Thermister (NTC ) Char.(MODEL-SA-108) || Analog Multimeter Demonstrator (SE801) || Transducer Trainer (RTD, Thermister, Thermocouple) || Logic Gate Trainer || Half Adder & Full Adder || Multiplexer (16:1) || Demultiplexer (1:16) || Flip Flop Trainer || Asynchronous Up / Down Counter || 20 MHz Oscilloscope || AM / FM (2 MHz) Function Generator || Analog & Digital Trainer || BCD To Excess -3 Converter || Study Of Logic Gate With IC Number || Combined Unit On Adder And Subtractor.
+Electrical Engineering
+Computer Lab
+The Computer Lab is equipped with 25 high-performance computer systems, pre-installed with the latest software and development tools. The lab provides a conducive environment for programming, simulations, and research work. It supports a variety of courses including coding, data analysis, and circuit simulations. High-speed internet connectivity and projectors are also available for enhanced learning experiences.
+High Voltage Lab
+Equipment List: 30KV AC /40KV DC Source with necessary jigs || 50KV ,50mA, High voltage transformer with control panel || 62.5mm Sphere gap assembly (Manual) || Corona cage with 2, 3 & 4 || Horn Gap Apparatus
+Electrical Measurement Lab
+Equipment List: Mexawells Bridge || Schering Bridge || CT 25/5 A || Kelvin Double Bridge || Andersons Bridge || Wien Parallel Bridge || Single Phase lamp Bank || AC Voltmeter (0-250-300)V || DC Potentiometer || Earth Tester complete set || 3 Phase dimmer || Voltage ratio Box || TOD Energy Meter
+Switch Gear And Protection Lab
+Equipment List: Merz Price Protection of Alternator System with Motor Generator Set || Protection of transformer System || Protection of Transmission Line System || Computer system 25
+Electrical Machine Lab
+Equipment List: Motor Generator Set (3 HP, 220KV) || Control Panel For M-G Set || Set of Two 3-phase IM (Slip ring & squirrel cage) || Prime mover DC shunt Motor || Alternator || DC Series Motor (3HP, 220V) || Transformer rectifier Unit || 1-Phase transformer with tapping || 3-Phase Inductive load bank
+Civil Engineering
+STRUCTURAL DYNAMICS LAB
+22 Computer Systems
+AUTO CAD LAB
+computer system 25 || 24 port switch, network switch 1 || network switch rack 1 || patch panel 1 || bently academic perpetual offering solution contain 5CD's 1 || bently academic perpetual offering solution 1
+HYDRAULICS LAB
+Bernoulli's apparatus 1 || losses in pipe apparatus 1 || meta-centric height of ship model 1 || centrifugal pump set rig 1 || pressure measurement apparatus 1 || reciprocating pump set rig 1 || pelton wheel turbine 1 || U-tube manometer 1 || Reynold's apparatus 1 || orifice & mouthpiece apparatus 1 || notch apparatus 1 || impact of jet apparatus 1 || venturimeter 1 || orificemeter 1
+GEOTECHNICAL ENGINEERING LAB
+pycnometer 3 || triaxial shear test machine 1 || direct shear test machine 1 || unconfined compression test machine 1 || consolidation test apparatus 1 || standard proctor test apparatus 1 || permeability test apparatus 1 || core cutter 2 || shrinkage limit test apparatus 3
+STRENGTH OF MATERIALS LAB
+mechanical extensometer 1 || universal testing machine 1 || compression testing machine 1 || rockwell cum brinell hardness 1 || impact testing machine 1 || shear test attachment 1 || tile flexural test attachment 1
+TRANSPORTATION ENGINEERING LAB
+TRANSPORTATION ENGINEERING LAB
+CONCRETE TECHNOLOGY LAB
+vibration machine 1 || air permeability apparatus 1 || vicat apparatus 1 || le-chatelier apparatus 1 || slump cone test apparatus 1 || compaction factor test apparatus 1
+ENVIRONMENTAL ENGINEERING LAB
+micro controller based visible spectrometer 1 || water analyzer 1 || BOD incubator 1 || serological water bath 1 || muffle furnace 1 || weighing balance 2 || rectangular hot plate 1 || rectangular hot plate with PID control 1 || BOD analyzer 1 || COD analyzer 1 || COD digester 1 || hot air oven 1 || Imhoff cone 1
+SURVEYING LAB
+dumpy level 2 || auto level 2 || theodolite 2 || chain 6 || total station 1 || levelling staff 5 || mechanical planimeter 2 || nautical sextant 1 || prismatic compass 2 || surveyor's compass 1 || optical square 4
+ENGINEERING GEOLOGY LAB
+mineral samples 40 || igneous rocks 25 || sedimentary rocks 25 || metamorphic rocks 25 || mohr's scale of hardness 5
+Mechanical Engineering
+IC ENGINE LAB
+Equipment List: Petrol engine test rig || Diesel engine test rig || cut section models of different parts of engine || Smoke analyzer
+CAD CAM LAB
+Equipment List: Unigraphics- Nx8.5 || Academic Bundle Includes Complete (CAD/CAM/CAE) Functionality Product Code (Nxacad100 & Nxacad101) || Matlab With Necessary Tool Box || FreeCAD
+THERMODYNAMICS LAB
+Equipment List: Cochran Boiler Model || Lancashire boiler Model || Babcock and Wilcox boiler Model || Various boiler models, mountings, and accessories || Bomb Calorimeter || Separating and throttling calorimeter || Cooling tower || Orsat apparatus
+REFRIGERATION AND AIR CONDITIONING LAB
+Equipment List: Vapour Absorption Test rig || Refrigeration test rig || Air Conditioning test Rig || Display board of RAC devices
+MSM LAB
+Equipment List: Inverted metallurgical microscope || Grinding/ Lapping Machine || Metallography belt grinder || Hydraulic specimen mounting press || Standard specimen samples of metallurgical microscope || 3D Printer
+THEORY OF MACHINES LAB
+Equipment List: Governors || Gyroscope || Cam Analysis Apparatus || Pantograph Mechanism || Single Shoe Brake || Universal coupling || Cotter Joint
+VLSI Engineering
+Computer Lab - II
+Equipment List: 48 Computer System
+Power Electronics Lab
+Equipment List: V I CHARACTERSTICS OF SCR || V I CHARACTERSTICS OF DIAC || V I CHARACTERSTICS OF TRAIC || R AND RC FIRING CIRCUIT || COMMUTATION CIRCUIT CLASS A AND B || CHOPPER CIRCUIT || PHASE CONTROL USING SCR || HALF AND FULL WAVE CONTROLLED RECTIFIER || POTENTIOMETER & ERROR DETECTOR || SYNCHRO MACHINE A.C. POSITION SYSTEM || D.C. POSITION SYSTEM
+Embedded System Lab
+Equipment List: Arm-7 Development Board with all interbase on Board with Power supply || Arm-7 Development Board with all interbase on Board(SPJ- SYSTEM) with Power supply || SBC-51: 8051 based Microcontroller Trainer || SMPS power supply || DYNA 51 microcontroller trainer with LCD display || A to D converter(ADC 01 : 8 bit) || Stepper Motor || Cable & connector set with keyboard || Testronics power supply with 92 B || Testronics power supply with 92 C.
+Electronic Devices & Circuit Design
+Equipment List: 100 MHZ Oscilloscope with 1GS/S || Bread Baord Trainer System || Digital Tariner Kit || Discrete Component Trainer Board || IC 810 As Audio Amplifier Trainer || 20 Mhz Oscilloscope || AM/FM Function Generator || CRO 25 MHZ DUAL TRACE with component tester || Generator sine square/1 MHZ ||1 MHZ function generator || Semiconductor diode with 4 meter || Digital multimeter || Power supply 30 V/1amp !! Soldering iron with Bench Setup || Digital multimeter model: DMM4011 || Digital lab/ST 2611
+5G Internet Technology Engineering
+Microwave & RF Communication Lab
+Equipment List: RF Test Bench setup for Analysis and verification of S- Parameters & VSWR
+Electronic Devices & Circuit Design
+Equipment List: 100 MHZ Oscilloscope with 1GS/S || Bread Baord Trainer System || Digital Tariner Kit || Discrete Component Trainer Board || IC 810 As Audio Amplifier Trainer || 20 Mhz Oscilloscope || AM/FM Function Generator || CRO 25 MHZ DUAL TRACE with component tester || Generator sine square/1 MHZ || 1 MHZ function generator || Semiconductor diode with 4 meter || Digital multimeter || Power supply 30 V/1amp || Soldering iron with Bench Setup || Digital multimeter model: DMM4011 || Digital lab/ST 2611
+Analog & Digital Electronics Lab
+Equipment List: 20 MHZ Oscilloscope || AM / FM (2 MHZ) Function Generator || Analog & Digital Trainer || Flip Flop Trainer || PLL Frequency Multiplier & Synthesizer || Implementation of IC-723 basic HIGH/LOW REG || Precision Halfwave & Full wave rectifier || Linear IC trainer Kit. || Electrical Theorem Kit with Four Theorems || Thevenins Theorem(MNO KNB 18) || Digital Multimeter || Thermister (NTC ) Char.(MODEL-SA-108) || Analog Multimeter Demonstrator (SE801) || Transducer Trainer (RTD, Thermister, Thermocouple) || Logic Gate Trainer || Half Adder & Full Adder || Multiplexer (16:1) || Demultiplexer (1:16) || Flip Flop Trainer || Asynchronous Up / Down Counter || 20 MHz Oscilloscope || AM / FM (2 MHz) Function Generator || Analog & Digital Trainer || BCD To Excess-3 Converter || Study Of Logic Gate With IC Number || Combined Unit On Adder And Subtractor.
+Analog & Digital Communication Lab
+Equipment List: Digital Communication Trainer-2 || Digital IC trainer || Verification of sampling Theorem using Flat Top Sampling || Study of PCM generation & Detection || ASK generation & detection || DPSK generation & detection || QPSK generation & detection || Delta Modulation & demodulation
+Enquiry Form
+0240-6608772
+admission@sycet.org
+PROGRAMS
+Diploma in Engg.
+(Polytechnic)
+B.Tech
+M.Tech/MBA/PhD
+BCA
+MBA
+D.Pharm
+B.Pharm
+M.Pharm
+BAMS
+Nursing
+Ayurvedic
+Hospital
+TRAINING AND PLACEMENT
+Recruiters Application Form
+PORTALS
+NAAC
+DBATU
+BAMU
+MSBTE
+CET
+MAHADBT
+AICTE
+IMPORTANT LINKS
+Student
+Enquiry Form
+Careers
+Event
+Registration
+Laboratory
+SHREEYASH
+PRATISHTHAN
+INSTITUTES
+Shreeyash College of Engineering (Polytechnic)
+Shreeyash College of Engineering
+Shreeyash Institute of Pharmaceutical Education & Research
+Shreeyash Institute of Pharmacy
+Shreeyash Institute of Management
+Shreeyash Ayurvedic College
+Shreeyash Ayurvedic Hospital
+MEDIA COVERAGE
+Institute News
+Training And
+Placement News
+REACH US
+Admission Cell Landline: (0240)-6608772
+Principal Dr. B.M. Patil: +91 8275327951
+ACADEMIC DEAN (Dr. P.M. Ardhapurkar): +91 8551004684
+admission@sycet.org
+principal@sycet.org
+Address: Gut no. 258, Prem Nagar, Satara Tanda Rd, near SRPF camp, Chhatrapati Sambhaji Nagar Maharashtra,
+431010 India
+FOLLOW US ON
+Refund and
+Cancellation
+Sublime Technologies
+and
+Shreeyash Pratishthan

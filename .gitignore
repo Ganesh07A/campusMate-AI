@@ -1,0 +1,8 @@
+.env
+/env
+__pycache__/
+*.pyc
+test.html
+test_ocr.py
+sahayak mini project.zip
+.vscode/
